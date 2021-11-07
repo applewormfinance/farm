@@ -5,8 +5,8 @@
   "farmPrimaryTitle": "Stake tokens to earn Aworm",
   "farmSecondaryTitle": "",
   "logoImage": "Aworm3.png",
-  "tokenImage": "./images/networks/polygon-icon.png",
-  "homeStakingCardBackground": "./images/networks/polygon-icon.png",
+  "tokenImage": "Aworm1.png",
+  "homeStakingCardBackground": "Aworm3.png",
   "googleAnalytics": "",
   "priceLink": "https://polygon.poocoin.app/tokens/0xb69035684AFd896c587F0409b95FA246ef23870D",
   "socials": [
